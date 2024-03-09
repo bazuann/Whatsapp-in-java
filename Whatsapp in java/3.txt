@@ -1,0 +1,21 @@
+car1:1 Just assigned
+car2:2 Just assigned
+cat1:3 Just assigned
+cup1:4 Just assigned
+cup2:5 Just assigned
+cup3:6 Just assigned
+cloud1:7 Just assigned
+1:2:merhaba 2 Just assigned
+2:1:merhaba 1 Just assigned
+3:4:merhaba 4 Just assigned
+1:3:merhaba 3 Just assigned
+car1:all:herkese selam 1 Just assigned
+car1:all:herkese selam 2 Just assigned
+car1:all:nasilsin car4 Just assigned
+car1:1 Just assigned
+car2:2 Just assigned
+cat1:3 Just assigned
+cup1:4 Just assigned
+cup2:5 Just assigned
+cup3:6 Just assigned
+cloud1:7 Just assigned
